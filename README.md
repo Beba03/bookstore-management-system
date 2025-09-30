@@ -37,7 +37,7 @@ A simple **Bookstore Management System** written in **C**, providing functionali
 
 Here’s an example of the program running:
 
-[![Program Demo](assets/demo.png)](https://raw.githubusercontent.com/Beba03/bookstore-management-system/refs/heads/main/Bookstore%20management%20system%20in%20C/assets/demo.png)
+[![Program Demo](assets/demo.png)](https://raw.githubusercontent.com/Beba03/bookstore-management-system/refs/heads/main/Bookstore%20management%20system%20in%20C/assets/demo.png?raw=true)
 ---
 
 ## 🚀 Getting Started
