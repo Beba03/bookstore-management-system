@@ -33,7 +33,11 @@ A simple **Bookstore Management System** written in **C**, providing functionali
 ├── credentials.txt   # Stores username/password
 └── README.md         # Documentation
 ```
+## 🖥️ Program in Action
 
+Here’s an example of the program running:
+
+![Program Demo](assets/demo.png)
 ---
 
 ## 🚀 Getting Started
