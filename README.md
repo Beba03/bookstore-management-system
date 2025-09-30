@@ -26,3 +26,54 @@ A simple **Bookstore Management System** written in **C**, providing functionali
 ---
 
 ## 📂 File Structure
+```
+.
+├── main.c            # Source code
+├── books.txt         # Stores persisted book records
+├── credentials.txt   # Stores username/password
+└── README.md         # Documentation
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Beba03/bookstore-management-system-c.git
+cd bookstore-management-system-c
+```
+
+### 2. Compile the Program
+```bash
+gcc main.c -o bookstore
+```
+
+### 3. Run the Program
+```bash
+./bookstore
+```
+
+### ⚠️ Setup Credentials
+Make sure you have a `credentials.txt` file with a username and password before running.  
+Example:
+
+```
+u123
+p123
+```
+
+---
+
+## 📌 Notes
+- Data persists in `books.txt` with each book entry saved as:
+  ```
+  ISBN,Title,Author,Quantity,Price,MM-YYYY
+  ```
+- Authentication is handled via `credentials.txt`.
+- Input validation is implemented for ISBN, quantity, price, and publication date.
+
+---
+
+## 👨‍💻 Author
+([@Beba03](https://github.com/Beba03))
