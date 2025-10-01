@@ -25,6 +25,14 @@ A simple **Bookstore Management System** written in **C**, providing functionali
 
 ---
 
+## 🖥️ Program in Action
+
+Here’s an example of the program running:
+
+<img width="791" height="535" alt="image" src="https://github.com/user-attachments/assets/89db69a4-7640-4f8f-abb0-e21df48c27cb" />
+
+---
+
 ## 📂 File Structure
 ```
 .
@@ -33,12 +41,6 @@ A simple **Bookstore Management System** written in **C**, providing functionali
 ├── credentials.txt   # Stores username/password
 └── README.md         # Documentation
 ```
-## 🖥️ Program in Action
-
-Here’s an example of the program running:
-
-[![Program Demo](assets/demo.png)](https://raw.githubusercontent.com/Beba03/bookstore-management-system/refs/heads/main/Bookstore%20management%20system%20in%20C/assets/demo.png?raw=true)
----
 
 ## 🚀 Getting Started
 
